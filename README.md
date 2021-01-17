@@ -1,9 +1,7 @@
-<img src="img/blackhat.png">
-
 # Applied Data Science for Security Professionals
 <img src="img/GTK_Logo_Social Icon.jpg" width="175" align="left" >
 
-### BlackHat 2020 Trainings (December 7th-8th, 2020) presented by GTK Cyber
+### PWC 2021 Trainings January, 2021) presented by GTK Cyber
 
 GTK Cyber [www.gtkcyber.com](https://www.gtkcyber.com) was founded to bridge the gap between Data Science and Cyber Security and not
 only provide high standard hands-on trainings, but introduce students to the most cutting-edge technologies and advancements in artificial intelligence,
